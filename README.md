@@ -28,4 +28,4 @@ The database is currently modeled after an archaeology department, but could app
 * Express
 
 ## License
-None
+Unlicense
